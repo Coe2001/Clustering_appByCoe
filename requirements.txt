@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+
+streamlit
+pandas
+scikit-learn
+matplotlib
